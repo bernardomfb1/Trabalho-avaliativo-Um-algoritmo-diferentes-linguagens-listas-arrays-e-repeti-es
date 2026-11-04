@@ -1,0 +1,14 @@
+c:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\bin\Debug\net10.0\geradorDeConfrontos.exe
+C:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\bin\Debug\net10.0\geradorDeConfrontos.deps.json
+C:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\bin\Debug\net10.0\geradorDeConfrontos.runtimeconfig.json
+c:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\bin\Debug\net10.0\geradorDeConfrontos.dll
+c:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\bin\Debug\net10.0\geradorDeConfrontos.pdb
+c:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\obj\Debug\net10.0\geradorDeConfrontos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\obj\Debug\net10.0\geradorDeConfrontos.AssemblyInfoInputs.cache
+c:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\obj\Debug\net10.0\geradorDeConfrontos.AssemblyInfo.cs
+c:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\obj\Debug\net10.0\geradorDeConfrontos.csproj.CoreCompileInputs.cache
+c:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\obj\Debug\net10.0\geradorDeConfrontos.dll
+c:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\obj\Debug\net10.0\refint\geradorDeConfrontos.dll
+c:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\obj\Debug\net10.0\geradorDeConfrontos.pdb
+C:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\obj\Debug\net10.0\geradorDeConfrontos.genruntimeconfig.cache
+C:\Users\Bernardo\Desktop\Faculdade\Trabalho1v1\geradorDeConfrontos - C#\geradorDeConfrontos\obj\Debug\net10.0\ref\geradorDeConfrontos.dll
