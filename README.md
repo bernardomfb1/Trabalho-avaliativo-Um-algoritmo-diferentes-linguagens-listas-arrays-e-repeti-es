@@ -16,7 +16,9 @@ Este repositório contém os códigos-fonte e o relatório do trabalho prático 
 **É necessário ter o JDK instalado.**
 
 cd java
+
 javac Main.java
+
 java Main
 
 
@@ -25,6 +27,7 @@ java Main
 **É necessário ter o SDK do .NET instalado.**
 
 cd csharp
+
 dotnet run
 
 
@@ -33,4 +36,5 @@ dotnet run
 **É necessário ter o Rust e o Cargo instalados.**
 
 cd rust
+
 cargo run
