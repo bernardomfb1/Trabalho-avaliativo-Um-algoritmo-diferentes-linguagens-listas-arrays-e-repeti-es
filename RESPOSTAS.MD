@@ -1,3 +1,6 @@
+## O arquivo formatado está no documento PDF anexo no repositório
+
+
 Trabalho avaliativo — Um algoritmo, diferentes linguagens: listas, arrays e repetições
 Unidade curricular: Algoritmos e Programação — Alexandre de Oliveira — Montanha
 Alunos:
